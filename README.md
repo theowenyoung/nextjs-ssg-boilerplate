@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+# Nextjs SSG boilerplate
+
+!!Note: this project has not finished, only i18n feature is finished.
+
+## Fertures
+
+- Totally SSG support
+- i18n support (with [rosetta](https://github.com/lukeed/rosetta))
 
 ## Getting Started
 

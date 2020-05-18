@@ -1,0 +1,8 @@
+{
+  "allLanguages": [ "en","zh"],
+  "defaultLanguage": "en",
+  "contentLanguageMap":{
+    "en":"en-US",
+    "zh":"zh-Hans"
+  }
+}
